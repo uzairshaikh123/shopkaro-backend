@@ -466,7 +466,20 @@
         "address": "hajipur"
       }
     ],
-    "users": [],
+    "users": [
+      {
+        "name": "uzair",
+        "email": "uzairmd073@gmail.com",
+        "password": "hhhhhh",
+        "id": 1
+      },
+      {
+        "name": "vicky",
+        "email": "vicky123c@gmail.com",
+        "password": "hellouser",
+        "id": 2
+      }
+    ],
     "cart": [
       {
         "id": 1,
@@ -537,6 +550,14 @@
         "email": "abc@gmail.com",
         "password": "hellouser",
         "id": 2
+      }
+    ],
+    "admin":[
+      {
+
+"email":"admin@shopkaro.com",
+"password":"adminuser"
+
       }
     ]
   }
