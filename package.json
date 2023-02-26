@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "name": "shopkaro-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
